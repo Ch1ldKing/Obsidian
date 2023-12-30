@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "毛概.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c3d53eb20d191343",
