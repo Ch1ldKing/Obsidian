@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "经验总结",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,11 +147,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c1331e0943ba137d",
+  "active": "0284bffdddb5611b",
   "lastOpenFiles": [
+    "2024肖四.pdf",
+    "毛概.md",
+    "2024肖四-ab056e433704.pdf.qkdownloading",
+    "test-7acd5989-bc4d-486a-8737-178a6548eab1.txt",
     "软件工程导论.md",
     "实事求是.md",
-    "毛概.md",
     "新建 文本文档.txt",
     "README.md",
     "Pictures/Pasted image 20231213021022.png",
