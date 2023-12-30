@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "经验总结",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0284bffdddb5611b",
+  "active": "c1331e0943ba137d",
   "lastOpenFiles": [
     "2024肖四.pdf",
     "毛概.md",
